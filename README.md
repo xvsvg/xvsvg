@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RSA-Encryption](https://github.com/xvsvg/RSA-Encryption), [DeadCells game copy(C# Unity)](https://github.com/AllCauchy-studio/project)
 
-- 🌱 I’m currently learning **ASP.NET, SQL-like databases**
+- 🌱 I’m currently learning **ASP.NET, SQL-like databases, Entity Framework**
 
 - 🤝 I’m looking for help with [DeadCells game, mentioned above](https://github.com/AllCauchy-studio/project)
 
