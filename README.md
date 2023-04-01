@@ -1,26 +1,12 @@
-<h1 align="center">Hi 👋, Call me Ken 🐈</h1>
-<h3 align="center">A passionate C# developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xvsvg&label=Profile%20views&color=0e75b6&style=flat" alt="xvsvg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xvsvg" alt="xvsvg" /></a> </p>
 
 - 🔭 I’m currently working on [Notes-Backend](https://github.com/xvsvg/Notes-Backend), [DeadCells game copy(C# Unity)](https://github.com/AllCauchy-studio/project)
 
-- 🌱 I’m currently learning **ASP.NET, SQL-like databases, Entity Framework**
+- 🌱 I’m currently learning **ASP.NET Core, SQL-like databases, Entity Framework**
 
 - 🤝 I’m looking for help with [DeadCells game, mentioned above](https://github.com/AllCauchy-studio/project)
 
-- 👨‍💻 All of my projects are available at [github.com/xvsvg](github.com/xvsvg)
-
-- 💬 I already know about **.NET, Algorithms & Data Structures**
-
 - 📫 How to reach me **mdcrtboy@gmail.com**, telegram in bio
 
-- ⚡ Fun fact: **Due to my studies, I devote little time to my projects. I'm looking forward to get "S" rank in github stats.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
