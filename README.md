@@ -22,8 +22,8 @@ Contact me: [t.me/xvsmeh](t.me/xvsmeh)
 
 ### Stack
 - ASP.NET Core
-- Entity Framework 6 
-- Typescript 4.9.5
+- Entity Framework
+- Typescript
 
 <a href="http://www.github.com/xvsvg"><img src="https://github-readme-stats.vercel.app/api?username=xvsvg&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="xvsvg's GitHub stats" /></a>
 <a href="http://www.github.com/xvsvg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xvsvg&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
